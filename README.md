@@ -1,3 +1,3 @@
 # DataViz
 
-In this folder , I present my first data visualisation project using PowerBI. 
+In this folder , I present my some data visualisation dashboards using PowerBI tool in various domains : marketing, M&A.
