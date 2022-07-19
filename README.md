@@ -3,6 +3,7 @@
 In this folder , I present my some data visualisation dashboards using PowerBI tool in various domains.
 
 ## Acquisitions by tech Companies interactive dashboard
+File named Dashboard M&A
 
 Tech companies like Google, Amazon, IBM acquire innovative businesses to stimulate their growth and gaining competitive advantages. 
 The data analysis dashboard helps to :
@@ -18,3 +19,13 @@ https://user-images.githubusercontent.com/34771842/179535374-f8dcec67-5528-4ccd-
 
 To enrich my analysis, next steps of this project will be to fill missing data by scraping from Crunchbase or other websites.
 
+## Performances MyMarketCompany
+File named GR1_JAB_ExerciceProjetFinal.pdf
+
+To help the retail company: MyMarketCompany to analyse her sales, I provided a dashboard with : 
+ - An Overview Analysis 
+ - Products Analysis: top, flops
+ - Cost, Margin and Evolutions
+ - Marketing Analysis 
+ 
+ The Data source is multiple xls files, that have been model following the star schema principle with PowerQuery.
