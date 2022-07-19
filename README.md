@@ -1,6 +1,6 @@
 # DataViz
 
-In this folder , I present my some data visualisation dashboards using PowerBI tool in various domains.
+In this folder , I present some data visualisation dashboards using PowerBI tool.
 
 ## Acquisitions by tech Companies interactive dashboard
 File named Dashboard M&A
