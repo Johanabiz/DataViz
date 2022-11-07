@@ -17,8 +17,6 @@ The data analysis dashboard helps to :
 https://user-images.githubusercontent.com/34771842/179535374-f8dcec67-5528-4ccd-948d-9d5fa18cdf4a.mov
 
 
-To enrich my analysis, next steps of this project will be to fill missing data by scraping from Crunchbase or other websites.
-
 ## Performances MyMarketCompany
 File named GR1_JAB_ExerciceProjetFinal.pdf
 
